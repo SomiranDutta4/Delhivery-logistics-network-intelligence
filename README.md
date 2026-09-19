@@ -6,13 +6,6 @@
 ![NetworkX](https://img.shields.io/badge/Graph-NetworkX-purple)
 ![Status](https://img.shields.io/badge/Status-Deployed-success)
 
-A Streamlit dashboard for finding ETA, corridor, and hub problems in a
-logistics network. It combines a Random Forest ETA model with NetworkX graph
-features, corridor risk scoring, delay propagation analysis, and a simple hub
-intervention simulator.
-
-[Open the deployed dashboard](https://delhivery-logistics-network-intelligence-9fai7petrfsyvrbxs26fx.streamlit.app/)
-
 ## What it does
 
 The analysis works at trip level after cleaning shipment segments. It covers:
