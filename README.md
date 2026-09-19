@@ -109,6 +109,5 @@ Useful extensions would be live data refresh, intervention cost tracking,
 scheduled retraining, and daily monitoring of ETA error and corridor risk.
 
 ## Author
-
-[Shradd7 on GitHub](https://github.com/Shradd7)
-# Delhivery-logistics-network-intelligence
+[SomiranDutta4](https://github.com/SomiranDutta4)# 
+**Developed in collaboration with:** [Shradd7](https://github.com/Shradd7)# Delhivery-logistics-network-intelligence
